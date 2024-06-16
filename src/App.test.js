@@ -1,9 +1,9 @@
 import { render, screen, fireEvent } from '@testing-library/react';
 import App from './App';
 
-test('renders Folder Structure Renderer title', () => {
+test('renders Folder structure generator title', () => {
   render(<App />);
-  const titleElement = screen.getByText(/Folder Structure Renderer/i);
+  const titleElement = screen.getByText(/Folder structure generator/i);
   expect(titleElement).toBeInTheDocument();
 });
 

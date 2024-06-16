@@ -54,7 +54,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Folder Structure Renderer</h1>
+      <h1>Folder structure generator</h1>
       <div className="container">
         <textarea
           className="textarea"
