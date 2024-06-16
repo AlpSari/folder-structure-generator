@@ -52,6 +52,12 @@ This project provides a web application for visualizing folder structures. Users
 
 The output tree is can be copied to clipboard by using the "Copy to Clipboard button below".
 
+## Development
+
+This project was bootstrapped with [Create React App][create_react_app] and developed with the help of ChatGPT.
+
+[create_react_app]:https://github.com/facebook/create-react-app
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
